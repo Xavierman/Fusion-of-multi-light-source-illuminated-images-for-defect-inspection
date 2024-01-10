@@ -11,8 +11,8 @@ In this paper, we build a multilight source illumination/acquisition system to 
 Dataset |  |[`[Download]`](http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html)
 
 
-<img src="pic1.png" width="100%" height="80%">
-<img src="pic2.png" width="100%" height="80%">
+<img src="pic1.png" width="100%" height="50%">
+<img src="pic2.png" width="100%" height="50%">
 
 
 
