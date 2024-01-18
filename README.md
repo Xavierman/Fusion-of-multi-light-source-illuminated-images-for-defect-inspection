@@ -1,7 +1,8 @@
 # Fusion-of-multi-light-source-illuminated-images-for-defect-inspection
 
 By  Guizhong Fu, Shukai Jia, Wenbin Zhu, Jiangxin Yang, Yanlong Cao, Michael Ying Yang and Yanpeng Cao.
-Cite us by:
+
+Cite us using:
 
 Fu G, Jia S, Zhu W, et al. Fusion of multi-light source illuminated images for effective defect inspection on highly reflective surfaces[J]. Mechanical systems and signal processing, 2022, 175: 109109.
 
